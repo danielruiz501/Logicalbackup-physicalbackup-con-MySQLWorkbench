@@ -15,7 +15,7 @@ LOGICAL BACKUP CON MYSQL WORKBENCH
 8. Clic en: Start Export.
 
 Resultado:
-Se generará un archivo .sql con tu respaldo lógico.
+Se generará un archivo .sql con el respaldo lógico.
 
 PHYSICAL BACKUP CON MYSQL WORKBENCH
 
@@ -25,8 +25,8 @@ PHYSICAL BACKUP CON MYSQL WORKBENCH
 4. Click derecho en la tabla que se desea hacer el backup.
 5. Seleccionar Table Data Export Wizard.
 6. Seleccionar las tablas y columnas.
-7. Elegir el formato para el backup csv o json
+7. Elegir el formato para el backup csv o json.
 8. 6. Elegir la ruta del archivo, por ejemplo:
    C:\MyBackups
-9. Dar en siguiente hasta finalizar
+9. Dar en siguiente hasta finalizar.
 10. Se debe haber generado un archivo csv o json en la ruta seleccionada.
